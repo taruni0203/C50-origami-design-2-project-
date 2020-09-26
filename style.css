@@ -1,0 +1,27 @@
+h1{
+    color: white;
+    text-align: center; 
+}
+p{
+    color: darkblue;
+    text-align: center; 
+}
+li{
+    color: darkgreen;
+    font-style: oblique;
+}
+
+hr{
+    color: 0;
+}
+.header{
+    background-color: palevioletred;
+    text-align: center;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
